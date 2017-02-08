@@ -1,1 +1,28 @@
-My tutorial series on git and github/////testing this one...officially coming later
+#+TITLE: Git Tutorial Series in Nepali Language
+#+DESCRIPTION: Metadata on the ongoing series about git 
+#+OPTIONS: H:1 num:nil toc:nil html-postamble:nil 
+
+
+
+* Introduction
+	Hello everyone, My name is Sabin Nepal.I have started this tutorial series on behalf of nepali programmers or anyone who want to use git but to more understand it in their own language.This videos in this series will be uploaded on youtube so that anyone can access it for free.
+
+* Contents
+** Git Tutorial-(1) Introduction [First Episode] <2017-02-06 Mon>
+*** Topics Covered
+		- Introduction to version control system
+		- Local, centralised and distributed version control system
+		- What is git?
+		- Installation
+
+*** Links and References 
+		- [[https://www.youtube.com/watch?v=gWWgICMQjvA][Youtube video]]
+		- [[https://git-scm.com][Git official website]]
+		- [[https://neymarsabin.github.io/git-presentation][Git presentation]]
+
+
+* Suggestions 
+	Suggestions and comments will be highly appreciated. \\
+	
+
+
