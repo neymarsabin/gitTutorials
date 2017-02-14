@@ -1,0 +1,57 @@
+#+TITLE: Git from command line
+#+DESCRIPTION: Slide for my second video on the screencast series about git
+#+OPTIONS: H:1 num:nil toc:nil html-postamble:t reveal_single_file:t 
+#+OPTIONS: reveal_center:t reveal_control:t reveal_height:-1
+#+OPTIONS: reveal_history:nil reveal_keyboard:t reveal_overview:t
+#+OPTIONS: reveal_progress:t reveal_rolling_links:nil
+#+OPTIONS: reveal_single_file:t reveal_slide_number:"c"
+#+OPTIONS: reveal_title_slide:auto reveal_width:-1
+#+REVEAL_MARGIN: -1
+#+REVEAL_MIN_SCALE: -1
+#+REVEAL_MAX_SCALE: -1
+#+REVEAL_ROOT: file:///mnt/hackit/codeds/github-repos/reveal.js/reveal.js
+#+REVEAL_TRANS: linear
+#+REVEAL_THEME: night
+#+REVEAL_EXTRA_CSS: ./modified.css
+
+* Topics Covered
+	- Some GUI clients for using git
+	- Why command line?
+	- Basic Git workflow
+	- Some git hosting sites
+	- Quick demo on how everything works
+	- Basic Linux commands
+	- Adding SSH key in github
+
+* Some GUI clients 
+	- Git GUI [ windows ]
+	- Sourcetree
+	- GitKraken
+
+* Git inside an IDE/Editor 
+	- Magit [ EMACS ]
+	- Sublime text git
+	- Git for Eclipse
+	- Git with visual studio
+
+* Why command line? 
+	- Designed as command line tool
+	- New Features
+	- Online help with git command line
+	- Powerful 
+	- Commands are same in every platforms (very few exceptions)
+
+* Basic Git workflow 
+	#+caption: Basic Git workflow
+	[[file:./images/gitWorkflow.jpg.png]]
+	\\	
+	[[http://newtfire.org/dh/git_shell/gitWorkflow.jpg][Source of the image]]
+
+* Some Source code hosting platforms 
+	- [[https://github.com][Github]]
+	- [[https://bitbucket.org][BitBucket]]
+	- [[https://gitlab.com][GitLab]]
+
+* Quick Demo / Git And Github
+	
+
